@@ -83,6 +83,9 @@ s
     border-image: linear-gradient(blue,green);
     border-image-slice: 1;
 }
+.footer{
+    text-align: center;
+}
 *
 {
 	padding: 0;
